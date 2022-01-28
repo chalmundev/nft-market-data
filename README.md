@@ -1,1 +1,3 @@
-# foo Storing data for nft-market
+# Storing data for nft-market repo
+
+https://github.com/chalmundev/nft-market
